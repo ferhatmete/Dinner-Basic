@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: wheat;
+}
+
+/* --- Section and Article --- */
+
+section article {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+/* --- Artice İmg ---*/
+
+.dinner-img {
+    border-radius: 10px;
+}
+
+
+/* --- Footer ---*/
+
+footer {
+    text-align: center;
+}
